@@ -1,0 +1,40 @@
+
+#carNumber{
+    width: 20%;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px; 
+    text-align: center;
+    font-size: 16px; 
+    margin-bottom: 15px;
+}
+
+#carNumber::placeholder{
+    color: rgb(51, 51, 51);
+    font-size: 16px;
+    text-align: center;
+}
+
+
+.submit{
+    background-color: transparent;
+    border: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-bottom: 15px;
+}
+
+.submit:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+label{
+    font-size: 16px;
+    font-weight: 500;
+}

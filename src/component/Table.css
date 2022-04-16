@@ -1,0 +1,15 @@
+.Outer{
+  border: 2px solid black;
+  margin: auto;
+  margin-bottom: 60px;
+}
+
+.tr th{
+    border: 3px solid black;
+    padding: 8px;
+}
+
+.tr td{
+    border: 3px solid rgb(100, 100, 100);
+    padding: 5px;
+}
